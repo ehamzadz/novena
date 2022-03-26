@@ -394,6 +394,7 @@ a:focus {
 
 .navbar-brand {
   margin-top: 10px;
+  width: 200px;
 }
 
 .dropdown .dropdown-menu {
