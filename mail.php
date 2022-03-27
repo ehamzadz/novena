@@ -3,7 +3,7 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         # FIX: Replace this email with recipient email
-        $mail_to = "ehamzadz@pm.me";        
+        $mail_to = "USEREMAIL@gmail.com";
         
         # Sender Data
         $subject = trim($_POST["subject"]);
@@ -17,7 +17,7 @@
             http_response_code(400);
             echo "Please complete the form and try again.";
             exit;
-        }        
+        }
         
         # Mail Content
         $content = "Name: $name\n";
