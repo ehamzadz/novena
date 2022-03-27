@@ -4,7 +4,6 @@
 
         # FIX: Replace this email with recipient email
         $mail_to = "ehamzadz@pm.me";        
-
         
         # Sender Data
         $subject = trim($_POST["subject"]);
