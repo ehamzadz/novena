@@ -1,3 +1,9 @@
+<?php
+
+	require('header.php');
+
+?>
+	
 
 
 <section class="page-title bg-1">
