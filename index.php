@@ -19,7 +19,7 @@
 					
 					<p class="mb-4 pr-5">La télémédecine est un service gratuit dans un contexte de gratuité des soins en Algérie.</p>
 					<div class="btn-container ">
-						<a href="appoinment.html" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">Make appoinment <i class="icofont-simple-right ml-2  "></i></a>
+						<a href="appoinment.php" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">Make appoinment <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>
@@ -38,7 +38,7 @@
 						<span>H24 - 7/7</span>
 						<h4 class="mb-3">ORIENTATION EN LIGNE TELPHONIQUE  </h4>
 						<p class="mb-4">PRENDRE UN RDV AVEC UN EXPERT OU MEDECIN DE VOTRE CHOIX.</p>
-						<a href="appoinment.html" class="btn btn-main btn-round-full">Make a appoinment</a>
+						<a href="appoinment.php" class="btn btn-main btn-round-full">Make a appoinment</a>
 					</div>
 				
 					<div class="feature-item mb-5 mb-lg-0">
@@ -57,7 +57,7 @@
 							<i class="icofont-support"></i>
 						</div>
 						<span>TELEPHONE URGENCE</span>
-						<h4 class="mb-3">1-800-700-6200</h4>
+						<h4 class="mb-3">+213 661 75 11 50</h4>
 						<p>Get ALl time support for emergency.We have introduced the principle of family medicine.Get Conneted with us for any urgency .</p>
 					</div>
 				</div>
@@ -83,10 +83,10 @@
 			</div>
 			<div class="col-lg-4">
 				<div class="about-content pl-4 mt-4 mt-lg-0">
-					<h2 class="title-color">Personal care <br>& healthy living</h2>
+					<h2 class="title-color">Soins personnels & mode de vie sain</h2>
 					<p class="mt-4 mb-5">Bénéficier de l’expérience et le savoir des compétences médicales Algérienne public ou privé en Algerie ou à l’étranger.</p>
 
-					<a href="service.html" class="btn btn-main-2 btn-round-full btn-icon">Les Services<i class="icofont-simple-right ml-3"></i></a>
+					<a href="service.php" class="btn btn-main-2 btn-round-full btn-icon">Les Services<i class="icofont-simple-right ml-3"></i></a>
 				</div>
 			</div>
 		</div>
@@ -232,7 +232,7 @@
 			</div>
 			<div class="col-lg-6 col-md-10 ">
 				<div class="appoinment-wrap mt-5 mt-lg-0">
-					<h2 class="mb-2 title-color">Book appoinment</h2>
+					<h2 class="mb-2 title-color">Prendre rendez-vous</h2>
 					<p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit . Iste dolorum atque similique praesentium soluta.</p>
 					     <form id="#" class="appoinment-form" method="post" action="#">
                     <div class="row">
@@ -292,7 +292,7 @@
                         <textarea name="message" id="message" class="form-control" rows="6" placeholder="Your Message"></textarea>
                     </div>
 
-                    <a class="btn btn-main btn-round-full" href="appoinment.html" >Make Appoinment <i class="icofont-simple-right ml-2  "></i></a>
+                    <a class="btn btn-main btn-round-full" href="appoinment.php" >Make Appoinment <i class="icofont-simple-right ml-2  "></i></a>
                 </form>
             </div>
 			</div>
@@ -401,7 +401,7 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-7">
 				<div class="section-title text-center">
-					<h2>Partners who support us</h2>
+					<h2>Partenaires qui nous soutiennent</h2>
 					<div class="divider mx-auto my-4"></div>
 					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
 				</div>
@@ -413,37 +413,37 @@
 		<div class="row clients-logo">
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/1.png" alt="" class="img-fluid">
+					<img src="images/about/Ministere de la sante.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/2.png" alt="" class="img-fluid">
+					<img src="images/about/cnas.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/3.png" alt="" class="img-fluid">
+					<img src="images/about/casnos.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/4.png" alt="" class="img-fluid">
+					<img src="images/about/poste.jpg" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/5.png" alt="" class="img-fluid">
+					<img src="images/about/CAAT.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/6.png" alt="" class="img-fluid">
+					<img src="images/about/MINSTERE DE LA JUSTICE.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
 				<div class="client-thumb">
-					<img src="images/about/3.png" alt="" class="img-fluid">
+					<img src="images/about/Conseil de l'ordre des medecins.png" alt="" class="img-fluid">
 				</div>
 			</div>
 			<div class="col-lg-2">
