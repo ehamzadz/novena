@@ -3,9 +3,6 @@
 	require('header.php');
 
 ?>
-	
-
-
 
 <!-- Slider Start -->
 <section class="banner">
