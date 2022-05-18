@@ -22,6 +22,7 @@
 		</div>
 	</div>
 </section>
+<!-- Slider end -->
 <section class="features">
 	<div class="container">
 		<div class="row">
